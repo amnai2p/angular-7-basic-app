@@ -2,6 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
+
+## Customization
+This is basic app which has examples of how following things works in angular 7
+- How to set routes
+- How to use DataService
+- How to get user Data from a online service using httpclient module and show on home page 
+- How to create contact us form and validate it and show its errors
+
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
